@@ -1,4 +1,4 @@
-# Introduction to Programming in the Bedford Lab
+# Introductory Resources for the Bedford Lab
 
 Welcome to the Bedford Lab!
 
